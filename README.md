@@ -5,7 +5,7 @@
 https://telemost.yandex.ru/j/47404376248840
 
 Средя для проектов:
-Gymnasium MuJoCo: 
+Gymnasium MuJoCo: https://gymnasium.farama.org/environments/mujoco/
 1. Half Cheetah
 2. Hopper
 3. Humanoid Standup
@@ -16,6 +16,6 @@ Gymnasium MuJoCo:
 
 https://robotics.farama.org/
 Блоки: 
-Adroit Hand
-Shadow Dexterous Hand
-Fetch
+1. Adroit Hand
+2. Shadow Dexterous Hand
+3. Fetch
